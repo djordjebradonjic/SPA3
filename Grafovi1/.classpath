@@ -6,5 +6,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/djole/Downloads/algs4 (2).jar" sourcepath="/home/djole/Downloads/algs4 (2).jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

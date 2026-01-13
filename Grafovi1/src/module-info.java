@@ -4,5 +4,5 @@
 /**
  * 
  */
-module Grafovi1 {
+class Grafovi1 {
 }
